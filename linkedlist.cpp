@@ -8,3 +8,7 @@ class Node
     int noMhs;
     Node *next;
 };
+
+class List
+{
+};
