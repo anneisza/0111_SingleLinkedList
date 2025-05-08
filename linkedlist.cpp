@@ -110,3 +110,7 @@ class List
         }
     }
 };
+
+int main()
+{
+}
